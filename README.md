@@ -2,4 +2,5 @@
 
 A Flutter project for showing different cryptocurrency pierces using coinapi .
 
-##SCREENSHOTS 
+## SCREENSHOTS :
+<img src="screenshots/1.png"/>
